@@ -1,0 +1,202 @@
+Node 0                             	|	Node 1                             	|	Node 2                             	|	Node 3                             	|	
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 0,                      	|	  "depth": 0,                      	|	  "depth": 0,                      	|	  "depth": 0,                      	|	
+  "hash": "36dd245bb41008",        	|	  "hash": "36dd245bb41008",        	|	  "hash": "36dd245bb41008",        	|	  "hash": "36dd245bb41008",        	|	
+  "nonce": 0,                      	|	  "nonce": 0,                      	|	  "nonce": 0,                      	|	  "nonce": 0,                      	|	
+  "previous_hash": "0",            	|	  "previous_hash": "0",            	|	  "previous_hash": "0",            	|	  "previous_hash": "0",            	|	
+  "timestamp": 0,                  	|	  "timestamp": 0,                  	|	  "timestamp": 0,                  	|	  "timestamp": 0,                  	|	
+  "transactions": []               	|	  "transactions": []               	|	  "transactions": []               	|	  "transactions": []               	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+                                   	|	                                   	|	                                   	|	                                   	|	
+                                   	|	                                   	|	                                   	|	                                   	|	
+                                   	|	                                   	|	                                   	|	                                   	|	
+                                   	|	                                   	|	                                   	|	                                   	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 1,                      	|	  "depth": 1,                      	|	  "depth": 1,                      	|	  "depth": 1,                      	|	
+  "hash": "00006c290414b6",        	|	  "hash": "00006c290414b6",        	|	  "hash": "00006c290414b6",        	|	  "hash": "00006c290414b6",        	|	
+  "nonce": 5288,                   	|	  "nonce": 5288,                   	|	  "nonce": 5288,                   	|	  "nonce": 5288,                   	|	
+  "previous_hash": "36dd245bb41008",	|	  "previous_hash": "36dd245bb41008",	|	  "previous_hash": "36dd245bb41008",	|	  "previous_hash": "36dd245bb41008",	|	
+  "timestamp": 1597242778.0114079, 	|	  "timestamp": 1597242778.0114079, 	|	  "timestamp": 1597242778.0114079, 	|	  "timestamp": 1597242778.0114079, 	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0134",                    	|	    "Tx #0134",                    	|	    "Tx #0134",                    	|	    "Tx #0134",                    	|	
+    "Tx #0218",                    	|	    "Tx #0218",                    	|	    "Tx #0218",                    	|	    "Tx #0218",                    	|	
+    "Tx #0912"                     	|	    "Tx #0912"                     	|	    "Tx #0912"                     	|	    "Tx #0912"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 2,                      	|	  "depth": 2,                      	|	  "depth": 2,                      	|	  "depth": 2,                      	|	
+  "hash": "0000c41e7872b4",        	|	  "hash": "0000c41e7872b4",        	|	  "hash": "0000c41e7872b4",        	|	  "hash": "0000c41e7872b4",        	|	
+  "nonce": 111941,                 	|	  "nonce": 111941,                 	|	  "nonce": 111941,                 	|	  "nonce": 111941,                 	|	
+  "previous_hash": "00006c290414b6",	|	  "previous_hash": "00006c290414b6",	|	  "previous_hash": "00006c290414b6",	|	  "previous_hash": "00006c290414b6",	|	
+  "timestamp": 1597242778.1480412, 	|	  "timestamp": 1597242778.1480412, 	|	  "timestamp": 1597242778.1480412, 	|	  "timestamp": 1597242778.1480412, 	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0129",                    	|	    "Tx #0129",                    	|	    "Tx #0129",                    	|	    "Tx #0129",                    	|	
+    "Tx #0445",                    	|	    "Tx #0445",                    	|	    "Tx #0445",                    	|	    "Tx #0445",                    	|	
+    "Tx #0737"                     	|	    "Tx #0737"                     	|	    "Tx #0737"                     	|	    "Tx #0737"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 3,                      	|	  "depth": 3,                      	|	  "depth": 3,                      	|	  "depth": 3,                      	|	
+  "hash": "000036889eaacb",        	|	  "hash": "000036889eaacb",        	|	  "hash": "000036889eaacb",        	|	  "hash": "000036889eaacb",        	|	
+  "nonce": 68073,                  	|	  "nonce": 68073,                  	|	  "nonce": 68073,                  	|	  "nonce": 68073,                  	|	
+  "previous_hash": "0000c41e7872b4",	|	  "previous_hash": "0000c41e7872b4",	|	  "previous_hash": "0000c41e7872b4",	|	  "previous_hash": "0000c41e7872b4",	|	
+  "timestamp": 1597242780.903673,  	|	  "timestamp": 1597242780.903673,  	|	  "timestamp": 1597242780.903673,  	|	  "timestamp": 1597242780.903673,  	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0806",                    	|	    "Tx #0806",                    	|	    "Tx #0806",                    	|	    "Tx #0806",                    	|	
+    "Tx #0642",                    	|	    "Tx #0642",                    	|	    "Tx #0642",                    	|	    "Tx #0642",                    	|	
+    "Tx #0670"                     	|	    "Tx #0670"                     	|	    "Tx #0670"                     	|	    "Tx #0670"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 4,                      	|	  "depth": 4,                      	|	  "depth": 4,                      	|	  "depth": 4,                      	|	
+  "hash": "0000feb67f7454",        	|	  "hash": "0000feb67f7454",        	|	  "hash": "0000feb67f7454",        	|	  "hash": "0000feb67f7454",        	|	
+  "nonce": 24629,                  	|	  "nonce": 24629,                  	|	  "nonce": 24629,                  	|	  "nonce": 24629,                  	|	
+  "previous_hash": "000036889eaacb",	|	  "previous_hash": "000036889eaacb",	|	  "previous_hash": "000036889eaacb",	|	  "previous_hash": "000036889eaacb",	|	
+  "timestamp": 1597242785.1675737, 	|	  "timestamp": 1597242785.1675737, 	|	  "timestamp": 1597242785.1675737, 	|	  "timestamp": 1597242785.1675737, 	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0255",                    	|	    "Tx #0255",                    	|	    "Tx #0255",                    	|	    "Tx #0255",                    	|	
+    "Tx #0042",                    	|	    "Tx #0042",                    	|	    "Tx #0042",                    	|	    "Tx #0042",                    	|	
+    "Tx #0061"                     	|	    "Tx #0061"                     	|	    "Tx #0061"                     	|	    "Tx #0061"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 5,                      	|	  "depth": 5,                      	|	  "depth": 5,                      	|	  "depth": 5,                      	|	
+  "hash": "00003834623944",        	|	  "hash": "00003834623944",        	|	  "hash": "00003834623944",        	|	  "hash": "00003834623944",        	|	
+  "nonce": 16459,                  	|	  "nonce": 16459,                  	|	  "nonce": 16459,                  	|	  "nonce": 16459,                  	|	
+  "previous_hash": "0000feb67f7454",	|	  "previous_hash": "0000feb67f7454",	|	  "previous_hash": "0000feb67f7454",	|	  "previous_hash": "0000feb67f7454",	|	
+  "timestamp": 1597242786.174882,  	|	  "timestamp": 1597242786.174882,  	|	  "timestamp": 1597242786.174882,  	|	  "timestamp": 1597242786.174882,  	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0161",                    	|	    "Tx #0161",                    	|	    "Tx #0161",                    	|	    "Tx #0161",                    	|	
+    "Tx #0410",                    	|	    "Tx #0410",                    	|	    "Tx #0410",                    	|	    "Tx #0410",                    	|	
+    "Tx #0971"                     	|	    "Tx #0971"                     	|	    "Tx #0971"                     	|	    "Tx #0971"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+{                                  	|	{                                  	|	{                                  	|	{                                  	|	
+  "depth": 6,                      	|	  "depth": 6,                      	|	  "depth": 6,                      	|	  "depth": 6,                      	|	
+  "hash": "00004c9f245c89",        	|	  "hash": "000078635d87e7",        	|	  "hash": "000094c4252cd6",        	|	  "hash": "000078635d87e7",        	|	
+  "nonce": 3851,                   	|	  "nonce": 76429,                  	|	  "nonce": 55731,                  	|	  "nonce": 76429,                  	|	
+  "previous_hash": "00003834623944",	|	  "previous_hash": "00003834623944",	|	  "previous_hash": "00003834623944",	|	  "previous_hash": "00003834623944",	|	
+  "timestamp": 1597242787.1313581, 	|	  "timestamp": 1597242787.1692224, 	|	  "timestamp": 1597242786.9916964, 	|	  "timestamp": 1597242787.1692224, 	|	
+  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	  "transactions": [                	|	
+    "Tx #0029",                    	|	    "Tx #0029",                    	|	    "Tx #0029",                    	|	    "Tx #0029",                    	|	
+    "Tx #0920",                    	|	    "Tx #0920",                    	|	    "Tx #0920",                    	|	    "Tx #0920",                    	|	
+    "Tx #0164"                     	|	    "Tx #0164"                     	|	    "Tx #0164"                     	|	    "Tx #0164"                     	|	
+  ]                                	|	  ]                                	|	  ]                                	|	  ]                                	|	
+}                                  	|	}                                  	|	}                                  	|	}                                  	|	
+
+                                   	|	{                                  	|	                                   	|	{                                  	|	
+                                   	|	  "depth": 7,                      	|	                                   	|	  "depth": 7,                      	|	
+                                   	|	  "hash": "000044a5de1457",        	|	                                   	|	  "hash": "000044a5de1457",        	|	
+                                   	|	  "nonce": 47457,                  	|	                                   	|	  "nonce": 47457,                  	|	
+                                   	|	  "previous_hash": "000078635d87e7",	|	                                   	|	  "previous_hash": "000078635d87e7",	|	
+                                   	|	  "timestamp": 1597242789.3856885, 	|	                                   	|	  "timestamp": 1597242789.3856885, 	|	
+                                   	|	  "transactions": [                	|	                                   	|	  "transactions": [                	|	
+                                   	|	    "Tx #0157",                    	|	                                   	|	    "Tx #0157",                    	|	
+                                   	|	    "Tx #0338",                    	|	                                   	|	    "Tx #0338",                    	|	
+                                   	|	    "Tx #0226"                     	|	                                   	|	    "Tx #0226"                     	|	
+                                   	|	  ]                                	|	                                   	|	  ]                                	|	
+                                   	|	}                                  	|	                                   	|	}                                  	|	
+
+                                   	|	                                   	|	                                   	|	{                                  	|	
+                                   	|	                                   	|	                                   	|	  "depth": 8,                      	|	
+                                   	|	                                   	|	                                   	|	  "hash": "0000cb5c45ca85",        	|	
+                                   	|	                                   	|	                                   	|	  "nonce": 44291,                  	|	
+                                   	|	                                   	|	                                   	|	  "previous_hash": "000044a5de1457",	|	
+                                   	|	                                   	|	                                   	|	  "timestamp": 1597242790.3821032, 	|	
+                                   	|	                                   	|	                                   	|	  "transactions": [                	|	
+                                   	|	                                   	|	                                   	|	    "Tx #0088",                    	|	
+                                   	|	                                   	|	                                   	|	    "Tx #0775",                    	|	
+                                   	|	                                   	|	                                   	|	    "Tx #0508"                     	|	
+                                   	|	                                   	|	                                   	|	  ]                                	|	
+                                   	|	                                   	|	                                   	|	}                                  	|	
+
+____________________________________________________________________________________________________________________________________________________________________________
+82                                 	|	79                                 	|	82                                 	|	76                                 	|	
+Tx #0157                           	|	Tx #0088                           	|	Tx #0157                           	|	Tx #0576                           	|	
+Tx #0338                           	|	Tx #0775                           	|	Tx #0338                           	|	Tx #0723                           	|	
+Tx #0226                           	|	Tx #0508                           	|	Tx #0226                           	|	Tx #0181                           	|	
+Tx #0088                           	|	Tx #0576                           	|	Tx #0088                           	|	Tx #0615                           	|	
+Tx #0775                           	|	Tx #0723                           	|	Tx #0775                           	|	Tx #0206                           	|	
+Tx #0508                           	|	Tx #0181                           	|	Tx #0508                           	|	Tx #0614                           	|	
+Tx #0576                           	|	Tx #0615                           	|	Tx #0576                           	|	Tx #0717                           	|	
+Tx #0723                           	|	Tx #0206                           	|	Tx #0723                           	|	Tx #0825                           	|	
+Tx #0181                           	|	Tx #0614                           	|	Tx #0181                           	|	Tx #0879                           	|	
+Tx #0615                           	|	Tx #0717                           	|	Tx #0615                           	|	Tx #0277                           	|	
+Tx #0206                           	|	Tx #0825                           	|	Tx #0206                           	|	Tx #0230                           	|	
+Tx #0614                           	|	Tx #0879                           	|	Tx #0614                           	|	Tx #0840                           	|	
+Tx #0717                           	|	Tx #0277                           	|	Tx #0717                           	|	Tx #0302                           	|	
+Tx #0825                           	|	Tx #0230                           	|	Tx #0825                           	|	Tx #0307                           	|	
+Tx #0879                           	|	Tx #0840                           	|	Tx #0879                           	|	Tx #0179                           	|	
+Tx #0277                           	|	Tx #0302                           	|	Tx #0277                           	|	Tx #0467                           	|	
+Tx #0230                           	|	Tx #0307                           	|	Tx #0230                           	|	Tx #0858                           	|	
+Tx #0840                           	|	Tx #0179                           	|	Tx #0840                           	|	Tx #0310                           	|	
+Tx #0302                           	|	Tx #0467                           	|	Tx #0302                           	|	Tx #0098                           	|	
+Tx #0307                           	|	Tx #0255                           	|	Tx #0307                           	|	Tx #0743                           	|	
+Tx #0179                           	|	Tx #0858                           	|	Tx #0179                           	|	Tx #0230                           	|	
+Tx #0467                           	|	Tx #0310                           	|	Tx #0467                           	|	Tx #0711                           	|	
+Tx #0858                           	|	Tx #0098                           	|	Tx #0255                           	|	Tx #0483                           	|	
+Tx #0310                           	|	Tx #0743                           	|	Tx #0858                           	|	Tx #0924                           	|	
+Tx #0098                           	|	Tx #0230                           	|	Tx #0310                           	|	Tx #0219                           	|	
+Tx #0743                           	|	Tx #0711                           	|	Tx #0098                           	|	Tx #0789                           	|	
+Tx #0230                           	|	Tx #0483                           	|	Tx #0743                           	|	Tx #0355                           	|	
+Tx #0711                           	|	Tx #0924                           	|	Tx #0230                           	|	Tx #0487                           	|	
+Tx #0483                           	|	Tx #0219                           	|	Tx #0711                           	|	Tx #0068                           	|	
+Tx #0924                           	|	Tx #0789                           	|	Tx #0483                           	|	Tx #0923                           	|	
+Tx #0219                           	|	Tx #0355                           	|	Tx #0924                           	|	Tx #0077                           	|	
+Tx #0789                           	|	Tx #0487                           	|	Tx #0219                           	|	Tx #0572                           	|	
+Tx #0355                           	|	Tx #0068                           	|	Tx #0789                           	|	Tx #0766                           	|	
+Tx #0487                           	|	Tx #0923                           	|	Tx #0355                           	|	Tx #0821                           	|	
+Tx #0068                           	|	Tx #0077                           	|	Tx #0487                           	|	Tx #0283                           	|	
+Tx #0923                           	|	Tx #0572                           	|	Tx #0068                           	|	Tx #0977                           	|	
+Tx #0077                           	|	Tx #0766                           	|	Tx #0923                           	|	Tx #0053                           	|	
+Tx #0572                           	|	Tx #0821                           	|	Tx #0077                           	|	Tx #0194                           	|	
+Tx #0766                           	|	Tx #0283                           	|	Tx #0572                           	|	Tx #0397                           	|	
+Tx #0821                           	|	Tx #0977                           	|	Tx #0766                           	|	Tx #0766                           	|	
+Tx #0283                           	|	Tx #0053                           	|	Tx #0821                           	|	Tx #0340                           	|	
+Tx #0977                           	|	Tx #0194                           	|	Tx #0283                           	|	Tx #0667                           	|	
+Tx #0053                           	|	Tx #0397                           	|	Tx #0977                           	|	Tx #0481                           	|	
+Tx #0194                           	|	Tx #0766                           	|	Tx #0053                           	|	Tx #0211                           	|	
+Tx #0397                           	|	Tx #0340                           	|	Tx #0194                           	|	Tx #0175                           	|	
+Tx #0766                           	|	Tx #0667                           	|	Tx #0397                           	|	Tx #0859                           	|	
+Tx #0340                           	|	Tx #0481                           	|	Tx #0766                           	|	Tx #0727                           	|	
+Tx #0667                           	|	Tx #0211                           	|	Tx #0340                           	|	Tx #0705                           	|	
+Tx #0481                           	|	Tx #0175                           	|	Tx #0667                           	|	Tx #0537                           	|	
+Tx #0211                           	|	Tx #0859                           	|	Tx #0481                           	|	Tx #0641                           	|	
+Tx #0175                           	|	Tx #0727                           	|	Tx #0211                           	|	Tx #0520                           	|	
+Tx #0859                           	|	Tx #0705                           	|	Tx #0175                           	|	Tx #0378                           	|	
+Tx #0727                           	|	Tx #0537                           	|	Tx #0859                           	|	Tx #0891                           	|	
+Tx #0705                           	|	Tx #0641                           	|	Tx #0727                           	|	Tx #0659                           	|	
+Tx #0537                           	|	Tx #0520                           	|	Tx #0705                           	|	Tx #0885                           	|	
+Tx #0641                           	|	Tx #0378                           	|	Tx #0537                           	|	Tx #0326                           	|	
+Tx #0520                           	|	Tx #0891                           	|	Tx #0641                           	|	Tx #0860                           	|	
+Tx #0378                           	|	Tx #0659                           	|	Tx #0520                           	|	Tx #0285                           	|	
+Tx #0891                           	|	Tx #0885                           	|	Tx #0378                           	|	Tx #0759                           	|	
+Tx #0659                           	|	Tx #0326                           	|	Tx #0891                           	|	Tx #0901                           	|	
+Tx #0885                           	|	Tx #0860                           	|	Tx #0659                           	|	Tx #0013                           	|	
+Tx #0326                           	|	Tx #0285                           	|	Tx #0885                           	|	Tx #0379                           	|	
+Tx #0860                           	|	Tx #0759                           	|	Tx #0326                           	|	Tx #0627                           	|	
+Tx #0285                           	|	Tx #0901                           	|	Tx #0860                           	|	Tx #0304                           	|	
+Tx #0759                           	|	Tx #0013                           	|	Tx #0285                           	|	Tx #0484                           	|	
+Tx #0901                           	|	Tx #0379                           	|	Tx #0759                           	|	Tx #0920                           	|	
+Tx #0013                           	|	Tx #0627                           	|	Tx #0901                           	|	Tx #0298                           	|	
+Tx #0379                           	|	Tx #0304                           	|	Tx #0013                           	|	Tx #0351                           	|	
+Tx #0627                           	|	Tx #0484                           	|	Tx #0379                           	|	Tx #0029                           	|	
+Tx #0304                           	|	Tx #0920                           	|	Tx #0627                           	|	Tx #0208                           	|	
+Tx #0484                           	|	Tx #0298                           	|	Tx #0304                           	|	Tx #0363                           	|	
+Tx #0920                           	|	Tx #0351                           	|	Tx #0484                           	|	Tx #0311                           	|	
+Tx #0298                           	|	Tx #0029                           	|	Tx #0920                           	|	Tx #0243                           	|	
+Tx #0351                           	|	Tx #0208                           	|	Tx #0298                           	|	Tx #0675                           	|	
+Tx #0029                           	|	Tx #0363                           	|	Tx #0351                           	|	Tx #0590                           	|	
+Tx #0208                           	|	Tx #0311                           	|	Tx #0029                           	|	Tx #0255                           	|	
+Tx #0363                           	|	Tx #0243                           	|	Tx #0208                           	|	                                   	|	
+Tx #0311                           	|	Tx #0675                           	|	Tx #0363                           	|	                                   	|	
+Tx #0243                           	|	Tx #0590                           	|	Tx #0311                           	|	                                   	|	
+Tx #0675                           	|	                                   	|	Tx #0243                           	|	                                   	|	
+Tx #0590                           	|	                                   	|	Tx #0675                           	|	                                   	|	
+Tx #0255                           	|	                                   	|	Tx #0590                           	|	                                   	|	
